@@ -1,0 +1,60 @@
+[ 2016-09-24T19:58:46+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp5/public/
+[ log ] 127.0.0.1/thinkphp5/public/ [运行时间：0.898052s][吞吐率：1.11req/s] [内存消耗：2,073.45kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp5/',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'bdshare_firstime=1444123765847; __ar_v4=LE234DNXHNC7NLLEL3MHVF%3A20150929%3A4%7CZF46XPIYG5GKBMNFA2ALYL%3A20150929%3A4%7CWOWYI7ZW6BG3LM6TUORXSB%3A20150929%3A4; iweb_shoppingcart=89f99ded9dMDAyODAwMjg4MjtjNTEwYjFgY2E%2FZmBlOWNkYTRiPWB8IGBqZ2JzJTpbVCQmcHJvZHVgfSY%2BW119; ECS[visit_times]=22; __utma=96992031.582681491.1445411195.1445411195.1445411195.1; Hm_lvt_b77a57476d37e56886597b988acbd98e=1445240212,1445410857,1446530245,1447649346; Hm_lvt_382d67a85521a23eb0d10d0c89ab1575=1445240212,1445410856,1446530245,1447649346; Hm_lvt_0e9418de416c3db53c7f01612cfa1772=1449281610; Hm_lvt_9fa74f884a57b1e2411c59545ea4b992=1449281610; Hm_lvt_b48e19852489201c8e0cec97b24bee3d=1451534454; Hm_lvt_e42fdd28c9f9b63e51528b2d996d6539=1452492295; UniqueName=ebdb8d35-5db0-b004-7d5d-a8eeac8d23a8; Hm_lvt_8b90b41825a4a8fe5f40121456f1ab2d=1458871610; _pzfxuvpc=1458871609993%7C1229389993125757268%7C90%7C1458890232183%7C5%7C7513429461958203120%7C1240995857239622792; _gscu_1149047587=58871609wwsnmk19; _gscu_1513099588=58871609sq2lez19; _jzqa=1.4255681103607730700.1458871610.1458887095.1458889324.5; _qzja=1.1500736073.1458871610109.1458887094571.1458889323521.1458890002822.1458890232384..0.0.90.5; tma=96992031.31329922.1458871610030.1458871610030.1458871610030.1; bfd_g=b56c782bcb75035d00004857006db83455e57406; NTKF_T2D_CLIENTID=guestDEABE15F-C03E-EDA0-6D63-1D79E6147186; Hm_lvt_667b914f7da6927e70b98630e0f099e2=1459145429; Huiskin=default; Hm_lvt_080836300300be57b7f34f4b3e97d911=1461721324,1461895779,1462525939,1462784529',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ C:\wamp\www\thinkphp5\application\index\controller\Index.php 6 - 9
+}
+
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2016-09-24T20:01:14+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.tp5.com/ [运行时间：0.046002s][吞吐率：21.74req/s] [内存消耗：2,071.48kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.tp5.com',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ C:\wamp\www\thinkphp5\application\index\controller\Index.php 6 - 9
+}
+
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
